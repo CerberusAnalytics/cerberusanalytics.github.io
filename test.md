@@ -1,10 +1,7 @@
-
----
-title:  "Welcome to Jekyll!"
----
-
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+ 
+<html>
+<header><title>This is title</title></header>
+<body>
+Hello world
+</body>
+</html>
